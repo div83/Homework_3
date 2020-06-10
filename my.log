@@ -1,0 +1,92 @@
+2020-04-28 16:08:31 INFO  Startup:23 - Train{№834, direction=false} arrived
+2020-04-28 16:08:31 INFO  Train:54 - Train{№834, direction=false} entered in Tunnel{name='FIRST'}
+2020-04-28 16:08:32 INFO  Startup:23 - Train{№267, direction=true} arrived
+2020-04-28 16:08:32 INFO  Train:54 - Train{№267, direction=true} entered in Tunnel{name='SECOND'}
+2020-04-28 16:08:33 INFO  Startup:23 - Train{№495, direction=true} arrived
+2020-04-28 16:08:33 INFO  Train:54 - Train{№495, direction=true} entered in Tunnel{name='SECOND'}
+2020-04-28 16:08:34 INFO  Startup:23 - Train{№79, direction=false} arrived
+2020-04-28 16:08:34 INFO  Train:54 - Train{№79, direction=false} entered in Tunnel{name='FIRST'}
+2020-04-28 16:08:34 INFO  Train:60 - Train{№834, direction=false} left Tunnel{name='FIRST'}
+2020-04-28 16:08:35 INFO  Train:60 - Train{№267, direction=true} left Tunnel{name='SECOND'}
+2020-04-28 16:08:35 INFO  Startup:23 - Train{№758, direction=true} arrived
+2020-04-28 16:08:35 INFO  Train:54 - Train{№758, direction=true} entered in Tunnel{name='SECOND'}
+2020-04-28 16:08:36 INFO  Train:60 - Train{№495, direction=true} left Tunnel{name='SECOND'}
+2020-04-28 16:08:36 INFO  Startup:23 - Train{№160, direction=false} arrived
+2020-04-28 16:08:36 INFO  Train:54 - Train{№160, direction=false} entered in Tunnel{name='FIRST'}
+2020-04-28 16:08:37 INFO  Startup:23 - Train{№528, direction=true} arrived
+2020-04-28 16:08:37 INFO  Train:60 - Train{№79, direction=false} left Tunnel{name='FIRST'}
+2020-04-28 16:08:37 INFO  Train:54 - Train{№528, direction=true} entered in Tunnel{name='SECOND'}
+2020-04-28 16:08:38 INFO  Train:60 - Train{№758, direction=true} left Tunnel{name='SECOND'}
+2020-04-28 16:08:38 INFO  Startup:23 - Train{№619, direction=true} arrived
+2020-04-28 16:08:38 INFO  Train:54 - Train{№619, direction=true} entered in Tunnel{name='SECOND'}
+2020-04-28 16:08:39 INFO  Train:60 - Train{№160, direction=false} left Tunnel{name='FIRST'}
+2020-04-28 16:08:39 INFO  Startup:23 - Train{№120, direction=false} arrived
+2020-04-28 16:08:39 INFO  Train:54 - Train{№120, direction=false} entered in Tunnel{name='FIRST'}
+2020-04-28 16:08:40 INFO  Train:60 - Train{№528, direction=true} left Tunnel{name='SECOND'}
+2020-04-28 16:08:40 INFO  Startup:23 - Train{№823, direction=true} arrived
+2020-04-28 16:08:40 INFO  Train:54 - Train{№823, direction=true} entered in Tunnel{name='SECOND'}
+2020-04-28 16:08:41 INFO  Train:60 - Train{№619, direction=true} left Tunnel{name='SECOND'}
+2020-04-28 16:08:42 INFO  Train:60 - Train{№120, direction=false} left Tunnel{name='FIRST'}
+2020-04-28 16:08:43 INFO  Train:60 - Train{№823, direction=true} left Tunnel{name='SECOND'}
+2020-04-28 22:46:04 INFO  Startup:17 - ----------Entering the application----------
+2020-04-28 22:46:06 INFO  Startup:25 - Train №125, direction true arrived
+2020-04-28 22:46:06 INFO  Train:54 - Train №125, direction true entered the FIRST Tunnel
+2020-04-28 22:46:08 INFO  Startup:25 - Train №616, direction true arrived
+2020-04-28 22:46:08 INFO  Train:54 - Train №616, direction true entered the FIRST Tunnel
+2020-04-28 22:46:09 INFO  Train:60 - Train №125, direction true left FIRST Tunnel
+2020-04-28 22:46:10 INFO  Startup:25 - Train №944, direction false arrived
+2020-04-28 22:46:10 INFO  Train:54 - Train №944, direction false entered the SECOND Tunnel
+2020-04-28 22:46:11 INFO  Train:60 - Train №616, direction true left FIRST Tunnel
+2020-04-28 22:46:12 INFO  Startup:25 - Train №326, direction true arrived
+2020-04-28 22:46:12 INFO  Train:54 - Train №326, direction true entered the FIRST Tunnel
+2020-04-28 22:46:13 INFO  Train:60 - Train №944, direction false left SECOND Tunnel
+2020-04-28 22:46:14 INFO  Startup:25 - Train №149, direction false arrived
+2020-04-28 22:46:14 INFO  Train:54 - Train №149, direction false entered the SECOND Tunnel
+2020-04-28 22:46:15 INFO  Train:60 - Train №326, direction true left FIRST Tunnel
+2020-04-28 22:46:16 INFO  Startup:25 - Train №114, direction true arrived
+2020-04-28 22:46:16 INFO  Train:54 - Train №114, direction true entered the FIRST Tunnel
+2020-04-28 22:46:17 INFO  Train:60 - Train №149, direction false left SECOND Tunnel
+2020-04-28 22:46:18 INFO  Startup:25 - Train №857, direction true arrived
+2020-04-28 22:46:18 INFO  Train:54 - Train №857, direction true entered the FIRST Tunnel
+2020-04-28 22:46:19 INFO  Train:60 - Train №114, direction true left FIRST Tunnel
+2020-04-28 22:46:20 INFO  Startup:25 - Train №826, direction true arrived
+2020-04-28 22:46:20 INFO  Train:54 - Train №826, direction true entered the FIRST Tunnel
+2020-04-28 22:46:21 INFO  Train:60 - Train №857, direction true left FIRST Tunnel
+2020-04-28 22:46:22 INFO  Startup:25 - Train №657, direction true arrived
+2020-04-28 22:46:22 INFO  Train:54 - Train №657, direction true entered the FIRST Tunnel
+2020-04-28 22:46:23 INFO  Train:60 - Train №826, direction true left FIRST Tunnel
+2020-04-28 22:46:24 INFO  Startup:25 - Train №357, direction true arrived
+2020-04-28 22:46:24 INFO  Train:54 - Train №357, direction true entered the FIRST Tunnel
+2020-04-28 22:46:25 INFO  Train:60 - Train №657, direction true left FIRST Tunnel
+2020-04-28 22:46:27 INFO  Train:60 - Train №357, direction true left FIRST Tunnel
+2020-04-28 22:50:08 INFO  Startup:17 - ----------Entering the application----------
+2020-04-28 22:50:09 INFO  Startup:25 - Train №896, direction true arrived
+2020-04-28 22:50:09 INFO  Train:54 - Train №896, direction true entered the FIRST Tunnel
+2020-04-28 22:50:10 INFO  Startup:25 - Train №899, direction false arrived
+2020-04-28 22:50:10 INFO  Train:54 - Train №899, direction false entered the SECOND Tunnel
+2020-04-28 22:50:11 INFO  Startup:25 - Train №629, direction true arrived
+2020-04-28 22:50:11 INFO  Train:54 - Train №629, direction true entered the FIRST Tunnel
+2020-04-28 22:50:12 INFO  Startup:25 - Train №523, direction false arrived
+2020-04-28 22:50:12 INFO  Train:54 - Train №523, direction false entered the SECOND Tunnel
+2020-04-28 22:50:12 INFO  Train:60 - Train №896, direction true left the FIRST Tunnel
+2020-04-28 22:50:13 INFO  Train:60 - Train №899, direction false left the SECOND Tunnel
+2020-04-28 22:50:13 INFO  Startup:25 - Train №483, direction true arrived
+2020-04-28 22:50:13 INFO  Train:54 - Train №483, direction true entered the FIRST Tunnel
+2020-04-28 22:50:14 INFO  Train:60 - Train №629, direction true left the FIRST Tunnel
+2020-04-28 22:50:14 INFO  Startup:25 - Train №445, direction false arrived
+2020-04-28 22:50:14 INFO  Train:54 - Train №445, direction false entered the SECOND Tunnel
+2020-04-28 22:50:15 INFO  Train:60 - Train №523, direction false left the SECOND Tunnel
+2020-04-28 22:50:15 INFO  Startup:25 - Train №801, direction true arrived
+2020-04-28 22:50:15 INFO  Train:54 - Train №801, direction true entered the FIRST Tunnel
+2020-04-28 22:50:16 INFO  Train:60 - Train №483, direction true left the FIRST Tunnel
+2020-04-28 22:50:16 INFO  Startup:25 - Train №814, direction false arrived
+2020-04-28 22:50:16 INFO  Train:54 - Train №814, direction false entered the SECOND Tunnel
+2020-04-28 22:50:17 INFO  Startup:25 - Train №838, direction true arrived
+2020-04-28 22:50:17 INFO  Train:54 - Train №838, direction true entered the FIRST Tunnel
+2020-04-28 22:50:17 INFO  Train:60 - Train №445, direction false left the SECOND Tunnel
+2020-04-28 22:50:18 INFO  Train:60 - Train №801, direction true left the FIRST Tunnel
+2020-04-28 22:50:18 INFO  Startup:25 - Train №967, direction true arrived
+2020-04-28 22:50:18 INFO  Train:54 - Train №967, direction true entered the FIRST Tunnel
+2020-04-28 22:50:19 INFO  Train:60 - Train №814, direction false left the SECOND Tunnel
+2020-04-28 22:50:20 INFO  Train:60 - Train №838, direction true left the FIRST Tunnel
+2020-04-28 22:50:21 INFO  Train:60 - Train №967, direction true left the FIRST Tunnel
